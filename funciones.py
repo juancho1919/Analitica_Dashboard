@@ -1,95 +1,66 @@
-import csv
-from statistics import mean, mode
+import pandas as pd
+df = pd.read_csv("apuestas_online.csv")
+class Funciones:
+    def __init__(self, df):
+        # Recibe directamente un DataFrame ya cargado
+        self.df = df
 
-class Tienda:
+    # 1️ Promedio de monto apostado por juego
+    def promedio_monto_por_juego(self):
+        promedio = self.df.groupby("Tipo_Juego")["Monto_Apostado"].mean().round(2)
+        print("PROMEDIO DE MONTO APOSTADO POR JUEGO:")
+        for juego, valor in promedio.items():
+            print(f"• {juego}: ${valor}")
 
-    def __init__(self, ruta_csv):
-        self.ruta = ruta_csv
-        self.data = []
-        self.cargar_csv()
+    # 2️ Plataforma con mayor ganancia neta total
+    def plataforma_mas_rentable(self):
+        ganancias = self.df.groupby("Plataforma_Online")["Ganancia_Neta"].sum()
+        mejor = ganancias.idxmax()
+        print("PLATAFORMA CON MAYOR GANANCIA NETA:")
+        print(f"{mejor} → ${round(ganancias[mejor], 2)}")
 
-    def cargar_csv(self):
-        try:
-            with open(self.ruta, "r", encoding="utf-8-sig") as f:
-                lector = csv.DictReader(f)
-                self.data = list(lector)
-            print(f"CSV cargado correctamente → {len(self.data)} registros.")
-        except Exception as e:
-            print("Error al leer CSV:", e)
+    # 3️ Región con más apuestas realizadas
+    def region_mas_activa(self):
+        conteo = self.df["Region_Usuario"].value_counts()
+        region = conteo.idxmax()
+        print("REGIÓN CON MÁS APUESTAS:")
+        print(f"{region} → {conteo[region]} apuestas")
 
-    # 1 Promedio de ventas por mes (precio * cantidad)
-    def promedio_ventas_mes(self):
-        ventas = {}
-        for fila in self.data:
-            fecha = fila.get("fecha", "")
-            if not fecha:
-                continue
+    # 4️ Porcentaje de apuestas ganadas vs perdidas
+    def porcentaje_resultados(self):
+        total = len(self.df)
+        ganadas = (self.df["Resultado"] == "Ganada").sum()
+        perdidas = (self.df["Resultado"] == "Perdida").sum()
+        print("PORCENTAJE DE RESULTADOS:")
+        print(f"• Ganadas: {round(ganadas / total * 100, 2)}%")
+        print(f"• Perdidas: {round(perdidas / total * 100, 2)}%")
 
-            mes = fecha[:7]  # YYYY-MM
+    # 5️ Apuesta con mayor ganancia neta
+    def apuesta_mas_rentable(self):
+        idx = self.df["Ganancia_Neta"].idxmax()
+        fila = self.df.loc[idx]
+        print("APUESTA MÁS RENTABLE:")
+        print(f"ID {fila['ID_Apuesta']} → {fila['Tipo_Juego']} en {fila['Plataforma_Online']} → Ganancia: ${fila['Ganancia_Neta']}")
 
-            try:
-                precio = float(fila.get("precio_unitario", 0))
-                cantidad = int(fila.get("cantidad", 0))
-                total = precio * cantidad
-            except:
-                continue
-
-            ventas.setdefault(mes, []).append(total)
-
-        print("PROMEDIO DE VENTAS POR MES:")
-        for mes, valores in ventas.items():
-            print(f"• {mes}: ${round(mean(valores), 2)}")
-
-    # 2 Moda vendedor
-    def moda_vendedor(self):
-        vendedores = [fila.get("vendedor") for fila in self.data if fila.get("vendedor")]
-        try:
-            print("VENDEDOR MÁS REPETIDO:", mode(vendedores))
-        except:
-            print("No hay moda (todos diferentes).")
-
-    # 3 Sucursal con más ventas
-    def sucursal_mas_ventas(self):
-        sucursales = {}
-        for fila in self.data:
-            suc = fila.get("almacen")
-            try:
-                total = float(fila.get("precio_unitario", 0)) * int(fila.get("cantidad", 0))
-            except:
-                continue
-            sucursales[suc] = sucursales.get(suc, 0) + total
-
-        max_sucursal = max(sucursales, key=sucursales.get)
-        print("SUCURSAL CON MÁS VENTAS:")
-        print(f"{max_sucursal} → ${round(sucursales[max_sucursal],2)}")
-
-    # 4 Total de unidades por producto
-    def registro_productos(self):
-        productos = {}
-
-        for fila in self.data:
-            nombre = fila.get("nombre_producto")
-
-            # Ignorar filas sin nombre
-            if not nombre:
-                continue
-
-            try:
-                cantidad = int(fila.get("cantidad", 0))
-            except:
-                continue
-
-            productos[nombre] = productos.get(nombre, 0) + cantidad
-
-        print("TOTAL DE PRODUCTOS VENDIDOS:")
-        for producto, total in productos.items():
-            print(f"- {producto}: {total} unidades")
-
-    # 5 Registro tallas
-    def registro_tallas(self):
-        print("TALLAS ENCONTRADAS (primeros 10):")
-        for fila in self.data[:10]:
-            print(f"{fila.get('nombre_producto')} → talla {fila.get('tamaño')}")
+    # 6️⃣ Apuesta con mayor pérdida
+    def apuesta_mas_perdida(self):
+        idx = self.df["Ganancia_Neta"].idxmin()
+        fila = self.df.loc[idx]
+        print("APUESTA CON MAYOR PÉRDIDA:")
+        print(f"ID {fila['ID_Apuesta']} → {fila['Tipo_Juego']} en {fila['Plataforma_Online']} → Pérdida: ${fila['Ganancia_Neta']}")
 
 
-print("callen a diego")
+
+df = pd.read_csv("apuestas_online.csv", encoding="utf-8-sig")
+funciones = Funciones(df)
+
+funciones.promedio_monto_por_juego()
+funciones.plataforma_mas_rentable()
+funciones.region_mas_activa()
+funciones.porcentaje_resultados()
+funciones.apuesta_mas_rentable()
+funciones.apuesta_mas_perdida()
+
+
+
+
