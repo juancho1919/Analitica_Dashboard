@@ -1,66 +1,64 @@
 import pandas as pd
-df = pd.read_csv("apuestas_online.csv")
-class Funciones:
-    def __init__(self, df):
-        # Recibe directamente un DataFrame ya cargado
-        self.df = df
+from statistics import mode
 
-    # 1️ Promedio de monto apostado por juego
+class ApuestasOnline:
+
+    def __init__(self, ruta_csv):
+        self.ruta = ruta_csv
+        self.df = self.cargar_csv()
+
+    def cargar_csv(self):
+        try:
+            df = pd.read_csv(self.ruta)
+            print(f"CSV cargado correctamente → {len(df)} registros.")
+            return df
+        except Exception as e:
+            print("Error al leer CSV:", e)
+            return pd.DataFrame()
+
+    # 1 Promedio de monto apostado por tipo de juego
     def promedio_monto_por_juego(self):
-        promedio = self.df.groupby("Tipo_Juego")["Monto_Apostado"].mean().round(2)
-        print("PROMEDIO DE MONTO APOSTADO POR JUEGO:")
+        print("PROMEDIO DE MONTO APOSTADO POR TIPO DE JUEGO:")
+        promedio = self.df.groupby("Tipo_Juego")["Monto_Apostado"].mean()
         for juego, valor in promedio.items():
-            print(f"• {juego}: ${valor}")
+            print(f"• {juego}: ${round(valor, 2)}")
 
-    # 2️ Plataforma con mayor ganancia neta total
-    def plataforma_mas_rentable(self):
-        ganancias = self.df.groupby("Plataforma_Online")["Ganancia_Neta"].sum()
-        mejor = ganancias.idxmax()
-        print("PLATAFORMA CON MAYOR GANANCIA NETA:")
-        print(f"{mejor} → ${round(ganancias[mejor], 2)}")
+    # 2 Plataforma más usada
+    def plataforma_mas_usada(self):
+        plataformas = self.df["Plataforma_Online"].dropna().tolist()
+        try:
+            print("PLATAFORMA MÁS USADA:", mode(plataformas))
+        except:
+            print("No hay moda (todas diferentes o empate).")
 
-    # 3️ Región con más apuestas realizadas
-    def region_mas_activa(self):
-        conteo = self.df["Region_Usuario"].value_counts()
-        region = conteo.idxmax()
-        print("REGIÓN CON MÁS APUESTAS:")
-        print(f"{region} → {conteo[region]} apuestas")
+    # 3 Región con mayor ganancia neta total
+    def region_mas_rentable(self):
+        ganancias = self.df.groupby("Region_Usuario")["Ganancia_Neta"].sum()
+        region_max = ganancias.idxmax()
+        print("REGIÓN MÁS RENTABLE:")
+        print(f"{region_max} → ${round(ganancias[region_max], 2)}")
 
-    # 4️ Porcentaje de apuestas ganadas vs perdidas
-    def porcentaje_resultados(self):
-        total = len(self.df)
-        ganadas = (self.df["Resultado"] == "Ganada").sum()
-        perdidas = (self.df["Resultado"] == "Perdida").sum()
-        print("PORCENTAJE DE RESULTADOS:")
-        print(f"• Ganadas: {round(ganadas / total * 100, 2)}%")
-        print(f"• Perdidas: {round(perdidas / total * 100, 2)}%")
+    # 4 Total de apuestas ganadas por tipo de juego
+    def apuestas_ganadas_por_juego(self):
+        ganadas = self.df[self.df["Resultado"] == "Ganada"]
+        conteo = ganadas["Tipo_Juego"].value_counts()
+        print("APUESTAS GANADAS POR TIPO DE JUEGO:")
+        for juego, total in conteo.items():
+            print(f"- {juego}: {total} ganadas")
 
-    # 5️ Apuesta con mayor ganancia neta
-    def apuesta_mas_rentable(self):
-        idx = self.df["Ganancia_Neta"].idxmax()
-        fila = self.df.loc[idx]
-        print("APUESTA MÁS RENTABLE:")
-        print(f"ID {fila['ID_Apuesta']} → {fila['Tipo_Juego']} en {fila['Plataforma_Online']} → Ganancia: ${fila['Ganancia_Neta']}")
+    # 5 Primeras 5 apuestas con mayor ganancia
+    def top_apuestas_ganancia(self):
+        top = self.df.sort_values(by="Ganancia_Neta", ascending=False).head(5)
+        print("TOP 5 APUESTAS CON MAYOR GANANCIA:")
+        for _, fila in top.iterrows():
+            print(f"ID {fila['ID_Apuesta']} → {fila['Tipo_Juego']} en {fila['Plataforma_Online']} → ${fila['Ganancia_Neta']}")
 
-    # 6️⃣ Apuesta con mayor pérdida
-    def apuesta_mas_perdida(self):
-        idx = self.df["Ganancia_Neta"].idxmin()
-        fila = self.df.loc[idx]
-        print("APUESTA CON MAYOR PÉRDIDA:")
-        print(f"ID {fila['ID_Apuesta']} → {fila['Tipo_Juego']} en {fila['Plataforma_Online']} → Pérdida: ${fila['Ganancia_Neta']}")
+# Crear instancia leyendo el archivo
+apuestas = ApuestasOnline('Analitica_Dashboard/apuestas_online.csv')
 
-
-
-df = pd.read_csv("apuestas_online.csv", encoding="utf-8-sig")
-funciones = Funciones(df)
-
-funciones.promedio_monto_por_juego()
-funciones.plataforma_mas_rentable()
-funciones.region_mas_activa()
-funciones.porcentaje_resultados()
-funciones.apuesta_mas_rentable()
-funciones.apuesta_mas_perdida()
-
-
-
-
+# Ejecutar los análisis
+apuestas.promedio_monto_por_juego()
+apuestas.plataforma_mas_usada()
+apuestas.region_mas_rentable()
+apuestas.apuestas_ganadas_por_juego()
+apuestas.top_apuestas_ganancia()
