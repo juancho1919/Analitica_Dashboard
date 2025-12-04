@@ -70,7 +70,8 @@ def menu():
         print("5 → Región más rentable")
         print("6 → Apuestas ganadas por juego")
         print("7 → Top 5 apuestas con mayor ganancia")
-        print("8 → Salir")
+        print("8 → mostrar graficas")
+        print("0 → Salir")
 
         opcion = input("\nSelecciona una opción: ")
 
@@ -89,6 +90,10 @@ def menu():
         elif opcion == "7":
             llamar_top(apuestas)
         elif opcion == "8":
+            from Graficas import Graficas
+            g = Graficas(df)
+            g.graficas_mostrar()    
+        elif opcion == "0":
             print("Saliendo...")
             break
         else:
