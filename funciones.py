@@ -1,96 +1,64 @@
-import csv
-from statistics import mean, mode
+import pandas as pd
+from statistics import mode
 
-class Tienda:
+class ApuestasOnline:
 
     def __init__(self, ruta_csv):
         self.ruta = ruta_csv
-        self.data = []
-        self.cargar_csv()
+        self.df = self.cargar_csv()
 
     def cargar_csv(self):
         try:
-            with open(self.ruta, "r", encoding="utf-8-sig") as f:
-                lector = csv.DictReader(f)
-                self.data = list(lector)
-            print(f"CSV cargado correctamente → {len(self.data)} registros.")
+            df = pd.read_csv(self.ruta)
+            print(f"CSV cargado correctamente → {len(df)} registros.")
+            return df
         except Exception as e:
             print("Error al leer CSV:", e)
+            return pd.DataFrame()
 
-    # 1 Promedio de ventas por mes (precio * cantidad)
-    def promedio_ventas_mes(self):
-        ventas = {}
-        for fila in self.data:
-            fecha = fila.get("fecha", "")
-            if not fecha:
-                continue
+    # 1 Promedio de monto apostado por tipo de juego
+    def promedio_monto_por_juego(self):
+        print("PROMEDIO DE MONTO APOSTADO POR TIPO DE JUEGO:")
+        promedio = self.df.groupby("Tipo_Juego")["Monto_Apostado"].mean()
+        for juego, valor in promedio.items():
+            print(f"• {juego}: ${round(valor, 2)}")
 
-            mes = fecha[:7]  # YYYY-MM
-
-            try:
-                precio = float(fila.get("precio_unitario", 0))
-                cantidad = int(fila.get("cantidad", 0))
-                total = precio * cantidad
-            except:
-                continue
-
-            ventas.setdefault(mes, []).append(total)
-
-        print("PROMEDIO DE VENTAS POR MES:")
-        for mes, valores in ventas.items():
-            print(f"• {mes}: ${round(mean(valores), 2)}")
-
-    # 2 Moda vendedor
-    def moda_vendedor(self):
-        vendedores = [fila.get("vendedor") for fila in self.data if fila.get("vendedor")]
+    # 2 Plataforma más usada
+    def plataforma_mas_usada(self):
+        plataformas = self.df["Plataforma_Online"].dropna().tolist()
         try:
-            print("VENDEDOR MÁS REPETIDO:", mode(vendedores))
+            print("PLATAFORMA MÁS USADA:", mode(plataformas))
         except:
-            print("No hay moda (todos diferentes).")
+            print("No hay moda (todas diferentes o empate).")
 
-    # 3 Sucursal con más ventas
-    def sucursal_mas_ventas(self):
-        sucursales = {}
-        for fila in self.data:
-            suc = fila.get("almacen")
-            try:
-                total = float(fila.get("precio_unitario", 0)) * int(fila.get("cantidad", 0))
-            except:
-                continue
-            sucursales[suc] = sucursales.get(suc, 0) + total
+    # 3 Región con mayor ganancia neta total
+    def region_mas_rentable(self):
+        ganancias = self.df.groupby("Region_Usuario")["Ganancia_Neta"].sum()
+        region_max = ganancias.idxmax()
+        print("REGIÓN MÁS RENTABLE:")
+        print(f"{region_max} → ${round(ganancias[region_max], 2)}")
 
-        max_sucursal = max(sucursales, key=sucursales.get)
-        print("SUCURSAL CON MÁS VENTAS:")
-        print(f"{max_sucursal} → ${round(sucursales[max_sucursal],2)}")
+    # 4 Total de apuestas ganadas por tipo de juego
+    def apuestas_ganadas_por_juego(self):
+        ganadas = self.df[self.df["Resultado"] == "Ganada"]
+        conteo = ganadas["Tipo_Juego"].value_counts()
+        print("APUESTAS GANADAS POR TIPO DE JUEGO:")
+        for juego, total in conteo.items():
+            print(f"- {juego}: {total} ganadas")
 
-    # 4 Total de unidades por producto
-    def registro_productos(self):
-        productos = {}
+    # 5 Primeras 5 apuestas con mayor ganancia
+    def top_apuestas_ganancia(self):
+        top = self.df.sort_values(by="Ganancia_Neta", ascending=False).head(5)
+        print("TOP 5 APUESTAS CON MAYOR GANANCIA:")
+        for _, fila in top.iterrows():
+            print(f"ID {fila['ID_Apuesta']} → {fila['Tipo_Juego']} en {fila['Plataforma_Online']} → ${fila['Ganancia_Neta']}")
 
-        for fila in self.data:
-            nombre = fila.get("nombre_producto")
+# Crear instancia leyendo el archivo
+apuestas = ApuestasOnline('Analitica_Dashboard/apuestas_online.csv')
 
-            # Ignorar filas sin nombre
-            if not nombre:
-                continue
-
-            try:
-                cantidad = int(fila.get("cantidad", 0))
-            except:
-                continue
-
-            productos[nombre] = productos.get(nombre, 0) + cantidad
-
-        print("TOTAL DE PRODUCTOS VENDIDOS:")
-        for producto, total in productos.items():
-            print(f"- {producto}: {total} unidades")
-
-    # 5 Registro tallas
-    def registro_tallas(self):
-        print("TALLAS ENCONTRADAS (primeros 10):")
-        for fila in self.data[:10]:
-            print(f"{fila.get('nombre_producto')} → talla {fila.get('tamaño')}")
-
-
-print("callen a diego")
-
+# Ejecutar los análisis
+apuestas.promedio_monto_por_juego()
+apuestas.plataforma_mas_usada()
+apuestas.region_mas_rentable()
+apuestas.apuestas_ganadas_por_juego()
+apuestas.top_apuestas_ganancia()
