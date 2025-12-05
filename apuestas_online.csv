@@ -1,0 +1,1001 @@
+ID_Apuesta,Tipo_Juego,Plataforma_Online,Monto_Apostado,Resultado,Region_Usuario,Ganancia_Neta
+1,Póker,estafas.com,5.0,Perdida,Oceanía,-5.0
+2,carrera de caballos,Codere_App,5.0,Perdida,Europa,-5.0
+3,Tragamonedas,Codere_App,13.65,Ganada,Oceanía,17.58
+4,carrera de caballos,estafas.com,54.85,Ganada,Oceanía,97.51
+5,Fútbol,Bet_365,19.5,Perdida,Europa,-19.5
+6,Ruleta,Codere_App,8.53,Perdida,Europa,-8.53
+7,Ruleta,Stake_XYZ,203.94,Ganada,Norteamérica,307.79
+8,Tragamonedas,Codere_App,5.0,Perdida,Asia,-5.0
+9,Ruleta,Stake_XYZ,17.82,Perdida,Asia,-17.82
+10,Baloncesto,Stake_XYZ,45.44,Ganada,Asia,165.09
+11,carrera de caballos,Codere_App,5.0,Perdida,Latam,-5.0
+12,Fútbol,todoalnegro,33.17,Perdida,Asia,-33.17
+13,Tejo,estafas.com,14.14,Perdida,Asia,-14.14
+14,Tragamonedas,Codere_App,60.79,Perdida,Oceanía,-60.79
+15,Baloncesto,Stake_XYZ,10.78,Ganada,Norteamérica,31.01
+16,carrera de caballos,Codere_App,11.7,Perdida,Latam,-11.7
+17,Fútbol,Codere_App,8.19,Perdida,Latam,-8.19
+18,Ruleta,estafas.com,6.2,Ganada,Europa,11.57
+19,carrera de caballos,estafas.com,15.94,Perdida,Oceanía,-15.94
+20,Fútbol,Bet_365,21.62,Ganada,Latam,53.13
+21,Fútbol,Codere_App,26.28,Perdida,Latam,-26.28
+22,Baloncesto,Bet_365,7.72,Perdida,Oceanía,-7.72
+23,Baloncesto,Stake_XYZ,14.03,Ganada,Latam,29.35
+24,Tejo,Bet_365,49.93,Perdida,Asia,-49.93
+25,Tejo,todoalnegro,18.37,Perdida,Latam,-18.37
+26,Tragamonedas,estafas.com,5.0,Perdida,Latam,-5.0
+27,carrera de caballos,estafas.com,61.57,Perdida,Europa,-61.57
+28,Baloncesto,Stake_XYZ,19.0,Ganada,Europa,41.82
+29,Fútbol,estafas.com,58.0,Perdida,Latam,-58.0
+30,Ruleta,Stake_XYZ,10.75,Ganada,Latam,6.56
+31,Fútbol,Bet_365,16.85,Perdida,Latam,-16.85
+32,Tejo,Bet_365,43.46,Perdida,Asia,-43.46
+33,carrera de caballos,Bet_365,29.02,Perdida,Oceanía,-29.02
+34,Ruleta,todoalnegro,5.0,Perdida,Norteamérica,-5.0
+35,Fútbol,todoalnegro,5.0,Perdida,Asia,-5.0
+36,Ruleta,todoalnegro,27.85,Empate,Oceanía,0.0
+37,Fútbol,Stake_XYZ,37.1,Ganada,Europa,95.49
+38,Baloncesto,Stake_XYZ,6.77,Ganada,Latam,23.68
+39,Fútbol,Codere_App,5.0,Perdida,Europa,-5.0
+40,carrera de caballos,todoalnegro,5.0,Perdida,Norteamérica,-5.0
+41,Tejo,estafas.com,47.62,Perdida,Norteamérica,-47.62
+42,Póker,Bet_365,5.4,Ganada,Latam,4.8
+43,Tejo,estafas.com,5.0,Perdida,Norteamérica,-5.0
+44,carrera de caballos,Codere_App,11.86,Ganada,Asia,17.46
+45,carrera de caballos,estafas.com,5.0,Perdida,Latam,-5.0
+46,carrera de caballos,estafas.com,5.0,Perdida,Europa,-5.0
+47,Ruleta,estafas.com,5.0,Ganada,Oceanía,17.4
+48,Póker,estafas.com,5.0,Ganada,Oceanía,9.39
+49,Fútbol,Codere_App,5.0,Empate,Latam,0.0
+50,Baloncesto,Bet_365,107.68,Perdida,Latam,-107.68
+51,carrera de caballos,Codere_App,14.79,Ganada,Europa,53.94
+52,Tejo,Codere_App,10.31,Perdida,Asia,-10.31
+53,Tragamonedas,estafas.com,17.54,Perdida,Oceanía,-17.54
+54,Póker,Stake_XYZ,11.93,Perdida,Latam,-11.93
+55,Póker,Stake_XYZ,37.81,Perdida,Europa,-37.81
+56,Fútbol,Bet_365,5.0,Empate,Asia,0.0
+57,Fútbol,Codere_App,43.77,Perdida,Europa,-43.77
+58,carrera de caballos,Codere_App,6.16,Ganada,Europa,18.29
+59,Tejo,Bet_365,5.0,Perdida,Asia,-5.0
+60,Ruleta,Bet_365,19.09,Ganada,Europa,48.26
+61,Fútbol,Stake_XYZ,30.68,Perdida,Latam,-30.68
+62,Tejo,Codere_App,22.89,Ganada,Europa,41.9
+63,Fútbol,todoalnegro,24.73,Ganada,Latam,56.93
+64,Tejo,Bet_365,5.0,Ganada,Europa,5.18
+65,carrera de caballos,estafas.com,23.53,Ganada,Latam,85.5
+66,Tejo,Bet_365,9.79,Perdida,Europa,-9.79
+67,Ruleta,todoalnegro,5.0,Ganada,Norteamérica,13.27
+68,Tragamonedas,todoalnegro,16.99,Ganada,Latam,14.03
+69,Tejo,estafas.com,6.15,Ganada,Europa,21.65
+70,Baloncesto,Bet_365,5.0,Perdida,Latam,-5.0
+71,Tejo,todoalnegro,19.61,Perdida,Oceanía,-19.61
+72,Tejo,estafas.com,6.62,Perdida,Norteamérica,-6.62
+73,Póker,Bet_365,5.0,Ganada,Latam,4.96
+74,Tejo,estafas.com,9.25,Perdida,Asia,-9.25
+75,Fútbol,Bet_365,19.33,Perdida,Latam,-19.33
+76,Tejo,Stake_XYZ,5.0,Ganada,Europa,12.54
+77,Tragamonedas,Stake_XYZ,12.11,Ganada,Norteamérica,25.99
+78,Baloncesto,Stake_XYZ,5.33,Perdida,Europa,-5.33
+79,Póker,Bet_365,12.8,Empate,Norteamérica,0.0
+80,Tragamonedas,Stake_XYZ,8.6,Ganada,Europa,26.24
+81,Ruleta,Bet_365,252.65,Perdida,Europa,-252.65
+82,Póker,Codere_App,27.11,Perdida,Latam,-27.11
+83,Baloncesto,Bet_365,5.0,Perdida,Asia,-5.0
+84,Tragamonedas,Stake_XYZ,5.0,Ganada,Latam,12.79
+85,Fútbol,estafas.com,5.0,Ganada,Asia,7.68
+86,Fútbol,Bet_365,40.24,Perdida,Oceanía,-40.24
+87,Baloncesto,Bet_365,17.16,Perdida,Oceanía,-17.16
+88,Tejo,Bet_365,5.03,Ganada,Norteamérica,15.66
+89,Ruleta,Bet_365,7.92,Ganada,Asia,6.63
+90,carrera de caballos,Bet_365,5.56,Ganada,Latam,12.17
+91,Ruleta,Bet_365,5.14,Perdida,Norteamérica,-5.14
+92,Tejo,estafas.com,39.27,Ganada,Oceanía,68.4
+93,Fútbol,estafas.com,76.38,Perdida,Oceanía,-76.38
+94,Baloncesto,Stake_XYZ,32.92,Ganada,Oceanía,51.23
+95,carrera de caballos,estafas.com,39.49,Perdida,Latam,-39.49
+96,Tragamonedas,Bet_365,7.15,Ganada,Norteamérica,26.43
+97,carrera de caballos,Codere_App,5.0,Ganada,Latam,11.41
+98,Tragamonedas,Stake_XYZ,27.01,Perdida,Norteamérica,-27.01
+99,Tragamonedas,todoalnegro,5.0,Empate,Oceanía,0.0
+100,Baloncesto,estafas.com,15.84,Perdida,Oceanía,-15.84
+101,carrera de caballos,Stake_XYZ,21.28,Perdida,Oceanía,-21.28
+102,carrera de caballos,todoalnegro,46.28,Perdida,Europa,-46.28
+103,Tejo,todoalnegro,5.0,Perdida,Asia,-5.0
+104,Tejo,todoalnegro,5.0,Ganada,Oceanía,18.93
+105,carrera de caballos,Codere_App,15.12,Perdida,Europa,-15.12
+106,carrera de caballos,Stake_XYZ,38.62,Ganada,Asia,125.66
+107,Póker,todoalnegro,5.0,Perdida,Latam,-5.0
+108,Fútbol,Stake_XYZ,12.67,Ganada,Oceanía,16.47
+109,Tragamonedas,estafas.com,13.16,Ganada,Oceanía,24.43
+110,Ruleta,Codere_App,75.84,Perdida,Asia,-75.84
+111,Ruleta,Bet_365,5.0,Ganada,Latam,5.94
+112,Baloncesto,estafas.com,5.0,Ganada,Europa,9.95
+113,Póker,estafas.com,5.0,Perdida,Asia,-5.0
+114,Póker,Codere_App,34.58,Ganada,Oceanía,56.45
+115,Baloncesto,Stake_XYZ,6.58,Perdida,Oceanía,-6.58
+116,carrera de caballos,Codere_App,27.76,Empate,Asia,0.0
+117,Baloncesto,Stake_XYZ,17.15,Ganada,Oceanía,43.64
+118,Tragamonedas,Bet_365,15.63,Ganada,Asia,37.65
+119,carrera de caballos,estafas.com,8.03,Perdida,Oceanía,-8.03
+120,Póker,Codere_App,8.79,Ganada,Asia,32.69
+121,Póker,todoalnegro,13.93,Empate,Latam,0.0
+122,Ruleta,todoalnegro,7.17,Ganada,Asia,5.45
+123,Tejo,Stake_XYZ,8.26,Perdida,Norteamérica,-8.26
+124,carrera de caballos,todoalnegro,6.91,Ganada,Norteamérica,15.58
+125,carrera de caballos,Stake_XYZ,9.88,Perdida,Europa,-9.88
+126,Póker,Codere_App,11.26,Perdida,Latam,-11.26
+127,carrera de caballos,estafas.com,19.17,Perdida,Oceanía,-19.17
+128,Tejo,Stake_XYZ,15.84,Perdida,Oceanía,-15.84
+129,Fútbol,Bet_365,5.0,Ganada,Oceanía,10.66
+130,Póker,estafas.com,17.0,Perdida,Asia,-17.0
+131,Ruleta,Bet_365,19.87,Perdida,Norteamérica,-19.87
+132,Baloncesto,Codere_App,5.0,Perdida,Europa,-5.0
+133,Tejo,estafas.com,5.0,Ganada,Norteamérica,14.08
+134,Tragamonedas,estafas.com,5.0,Ganada,Latam,8.96
+135,Póker,Codere_App,19.65,Perdida,Asia,-19.65
+136,Póker,estafas.com,5.81,Ganada,Norteamérica,4.95
+137,Fútbol,Codere_App,38.58,Ganada,Europa,89.41
+138,Ruleta,todoalnegro,5.0,Ganada,Europa,6.78
+139,Tragamonedas,Bet_365,16.12,Perdida,Asia,-16.12
+140,Ruleta,Codere_App,71.58,Ganada,Asia,107.55
+141,Baloncesto,todoalnegro,22.86,Perdida,Asia,-22.86
+142,Fútbol,Bet_365,29.61,Perdida,Norteamérica,-29.61
+143,Ruleta,estafas.com,5.0,Perdida,Europa,-5.0
+144,Ruleta,Bet_365,5.0,Empate,Norteamérica,0.0
+145,Póker,estafas.com,42.52,Perdida,Norteamérica,-42.52
+146,Ruleta,Bet_365,80.44,Ganada,Europa,321.74
+147,Tejo,Bet_365,41.52,Ganada,Europa,32.86
+148,Póker,Stake_XYZ,5.76,Ganada,Europa,12.44
+149,Tejo,Codere_App,148.35,Perdida,Norteamérica,-148.35
+150,Tragamonedas,Codere_App,21.29,Perdida,Asia,-21.29
+151,Ruleta,todoalnegro,44.32,Perdida,Oceanía,-44.32
+152,Baloncesto,Codere_App,10.64,Perdida,Latam,-10.64
+153,Fútbol,estafas.com,5.0,Perdida,Latam,-5.0
+154,Póker,estafas.com,5.0,Perdida,Norteamérica,-5.0
+155,Póker,estafas.com,55.28,Ganada,Latam,181.5
+156,Fútbol,estafas.com,5.0,Perdida,Latam,-5.0
+157,Ruleta,estafas.com,7.34,Perdida,Oceanía,-7.34
+158,Baloncesto,Stake_XYZ,5.0,Perdida,Latam,-5.0
+159,Póker,Stake_XYZ,177.77,Perdida,Latam,-177.77
+160,Ruleta,Codere_App,5.84,Perdida,Latam,-5.84
+161,Ruleta,Bet_365,5.0,Ganada,Latam,13.44
+162,Baloncesto,todoalnegro,7.64,Perdida,Oceanía,-7.64
+163,Tragamonedas,Stake_XYZ,12.46,Ganada,Asia,21.54
+164,Póker,Bet_365,31.67,Perdida,Latam,-31.67
+165,Ruleta,todoalnegro,7.78,Perdida,Latam,-7.78
+166,Baloncesto,Stake_XYZ,15.72,Ganada,Norteamérica,35.16
+167,carrera de caballos,Stake_XYZ,5.0,Perdida,Latam,-5.0
+168,Baloncesto,estafas.com,34.22,Ganada,Oceanía,63.1
+169,Ruleta,estafas.com,5.0,Ganada,Latam,7.95
+170,Póker,Stake_XYZ,8.55,Ganada,Asia,10.47
+171,Fútbol,Stake_XYZ,31.56,Empate,Latam,0.0
+172,Ruleta,todoalnegro,23.6,Perdida,Europa,-23.6
+173,Póker,estafas.com,16.5,Perdida,Norteamérica,-16.5
+174,Póker,Codere_App,5.0,Ganada,Europa,18.24
+175,Póker,Stake_XYZ,14.52,Perdida,Oceanía,-14.52
+176,carrera de caballos,todoalnegro,5.0,Ganada,Oceanía,19.01
+177,Fútbol,todoalnegro,131.56,Perdida,Latam,-131.56
+178,Tejo,Stake_XYZ,18.91,Perdida,Asia,-18.91
+179,Fútbol,estafas.com,8.0,Perdida,Europa,-8.0
+180,Baloncesto,Bet_365,39.45,Ganada,Europa,97.25
+181,Fútbol,Bet_365,14.36,Perdida,Norteamérica,-14.36
+182,Baloncesto,Stake_XYZ,22.46,Perdida,Europa,-22.46
+183,Ruleta,todoalnegro,18.61,Perdida,Asia,-18.61
+184,carrera de caballos,Codere_App,5.0,Ganada,Latam,3.75
+185,Fútbol,Codere_App,5.0,Perdida,Latam,-5.0
+186,Póker,Bet_365,29.09,Ganada,Norteamérica,43.95
+187,Ruleta,Codere_App,11.01,Perdida,Asia,-11.01
+188,Ruleta,Codere_App,5.45,Ganada,Oceanía,17.95
+189,Póker,Bet_365,15.65,Perdida,Latam,-15.65
+190,Ruleta,Bet_365,5.0,Perdida,Norteamérica,-5.0
+191,Baloncesto,estafas.com,41.06,Ganada,Europa,65.3
+192,Tejo,Stake_XYZ,24.85,Perdida,Latam,-24.85
+193,Tragamonedas,Stake_XYZ,9.3,Ganada,Europa,23.15
+194,Ruleta,Stake_XYZ,5.0,Perdida,Asia,-5.0
+195,Póker,estafas.com,37.27,Empate,Oceanía,0.0
+196,Ruleta,Codere_App,7.24,Perdida,Asia,-7.24
+197,Baloncesto,estafas.com,5.14,Perdida,Latam,-5.14
+198,carrera de caballos,Bet_365,10.39,Perdida,Europa,-10.39
+199,Tejo,Codere_App,9.86,Ganada,Oceanía,35.37
+200,Baloncesto,todoalnegro,52.28,Ganada,Latam,178.48
+201,Fútbol,todoalnegro,36.06,Perdida,Norteamérica,-36.06
+202,Tragamonedas,Codere_App,41.9,Ganada,Asia,107.71
+203,Ruleta,todoalnegro,5.0,Perdida,Europa,-5.0
+204,Baloncesto,Bet_365,5.0,Ganada,Asia,13.03
+205,Baloncesto,Stake_XYZ,13.06,Ganada,Norteamérica,26.06
+206,Ruleta,Codere_App,15.15,Ganada,Europa,13.13
+207,Ruleta,Bet_365,5.0,Perdida,Asia,-5.0
+208,Baloncesto,Codere_App,6.88,Empate,Oceanía,0.0
+209,Tejo,todoalnegro,6.96,Ganada,Europa,16.79
+210,Ruleta,Bet_365,30.12,Perdida,Latam,-30.12
+211,Fútbol,todoalnegro,6.8,Ganada,Europa,5.83
+212,Ruleta,estafas.com,28.35,Perdida,Asia,-28.35
+213,Baloncesto,estafas.com,7.32,Perdida,Asia,-7.32
+214,Ruleta,todoalnegro,5.0,Ganada,Oceanía,6.51
+215,Ruleta,todoalnegro,12.92,Ganada,Asia,28.15
+216,Póker,todoalnegro,25.65,Ganada,Oceanía,26.79
+217,Póker,estafas.com,5.0,Perdida,Norteamérica,-5.0
+218,Tejo,Codere_App,5.0,Perdida,Latam,-5.0
+219,carrera de caballos,Bet_365,5.85,Empate,Europa,0.0
+220,Póker,estafas.com,5.0,Perdida,Asia,-5.0
+221,Tragamonedas,estafas.com,5.0,Ganada,Oceanía,17.27
+222,Baloncesto,Stake_XYZ,8.36,Perdida,Norteamérica,-8.36
+223,Fútbol,Codere_App,13.86,Perdida,Latam,-13.86
+224,carrera de caballos,Codere_App,26.48,Perdida,Latam,-26.48
+225,Póker,Codere_App,31.28,Ganada,Norteamérica,123.18
+226,carrera de caballos,todoalnegro,31.22,Perdida,Asia,-31.22
+227,Baloncesto,estafas.com,18.54,Perdida,Latam,-18.54
+228,Ruleta,estafas.com,5.3,Perdida,Europa,-5.3
+229,Tragamonedas,todoalnegro,19.83,Perdida,Europa,-19.83
+230,Ruleta,Codere_App,21.55,Perdida,Oceanía,-21.55
+231,carrera de caballos,Codere_App,5.44,Perdida,Norteamérica,-5.44
+232,Tejo,todoalnegro,46.91,Ganada,Norteamérica,33.46
+233,Baloncesto,Codere_App,37.99,Perdida,Asia,-37.99
+234,Fútbol,Bet_365,63.68,Ganada,Oceanía,168.03
+235,Tragamonedas,todoalnegro,5.0,Ganada,Norteamérica,17.26
+236,Ruleta,estafas.com,5.0,Ganada,Asia,7.1
+237,Tejo,Codere_App,7.18,Perdida,Asia,-7.18
+238,Ruleta,Codere_App,46.0,Ganada,Norteamérica,98.67
+239,Tejo,todoalnegro,19.92,Ganada,Latam,62.72
+240,carrera de caballos,Stake_XYZ,6.09,Ganada,Latam,23.58
+241,Póker,todoalnegro,34.85,Ganada,Oceanía,79.89
+242,Tragamonedas,estafas.com,9.34,Perdida,Latam,-9.34
+243,Póker,Bet_365,21.59,Empate,Latam,0.0
+244,carrera de caballos,Codere_App,37.23,Ganada,Oceanía,78.27
+245,Tejo,estafas.com,27.93,Empate,Europa,0.0
+246,Tragamonedas,Stake_XYZ,39.0,Perdida,Oceanía,-39.0
+247,Póker,todoalnegro,7.63,Perdida,Latam,-7.63
+248,Fútbol,Stake_XYZ,5.0,Perdida,Norteamérica,-5.0
+249,Tragamonedas,Codere_App,9.1,Perdida,Europa,-9.1
+250,Tejo,Bet_365,64.9,Perdida,Latam,-64.9
+251,Tejo,Bet_365,61.71,Perdida,Latam,-61.71
+252,Tragamonedas,Stake_XYZ,19.25,Perdida,Norteamérica,-19.25
+253,Ruleta,estafas.com,15.34,Perdida,Norteamérica,-15.34
+254,Tragamonedas,estafas.com,13.1,Perdida,Latam,-13.1
+255,Baloncesto,Codere_App,5.0,Perdida,Europa,-5.0
+256,carrera de caballos,Stake_XYZ,6.59,Ganada,Norteamérica,10.57
+257,Tragamonedas,Codere_App,19.38,Perdida,Oceanía,-19.38
+258,Tragamonedas,todoalnegro,9.15,Ganada,Latam,11.47
+259,Ruleta,estafas.com,6.23,Ganada,Oceanía,23.55
+260,Tragamonedas,Bet_365,44.33,Ganada,Norteamérica,71.81
+261,Ruleta,Stake_XYZ,40.88,Ganada,Asia,109.9
+262,Fútbol,todoalnegro,8.74,Perdida,Oceanía,-8.74
+263,Tejo,Bet_365,8.46,Ganada,Asia,19.44
+264,Tragamonedas,estafas.com,5.0,Ganada,Oceanía,2.74
+265,Fútbol,Bet_365,23.54,Ganada,Europa,43.24
+266,Ruleta,Bet_365,19.19,Perdida,Asia,-19.19
+267,carrera de caballos,Bet_365,5.0,Perdida,Latam,-5.0
+268,Tragamonedas,estafas.com,13.23,Ganada,Oceanía,43.46
+269,Baloncesto,estafas.com,14.44,Perdida,Oceanía,-14.44
+270,Póker,Stake_XYZ,6.97,Ganada,Latam,24.75
+271,Baloncesto,Stake_XYZ,8.67,Perdida,Asia,-8.67
+272,Ruleta,estafas.com,9.49,Ganada,Norteamérica,24.39
+273,Fútbol,estafas.com,5.0,Perdida,Norteamérica,-5.0
+274,Tragamonedas,Codere_App,15.63,Perdida,Asia,-15.63
+275,carrera de caballos,Codere_App,12.06,Perdida,Europa,-12.06
+276,Tejo,estafas.com,94.06,Perdida,Latam,-94.06
+277,Baloncesto,Bet_365,5.0,Perdida,Latam,-5.0
+278,carrera de caballos,estafas.com,8.39,Ganada,Europa,20.04
+279,Ruleta,Codere_App,11.28,Ganada,Europa,18.5
+280,Baloncesto,Bet_365,7.45,Ganada,Norteamérica,17.57
+281,Tejo,Stake_XYZ,5.0,Ganada,Oceanía,18.5
+282,Baloncesto,estafas.com,9.28,Perdida,Europa,-9.28
+283,carrera de caballos,Bet_365,5.0,Ganada,Norteamérica,4.18
+284,Tragamonedas,Codere_App,27.45,Perdida,Oceanía,-27.45
+285,Baloncesto,Bet_365,5.0,Perdida,Norteamérica,-5.0
+286,Tejo,Bet_365,6.22,Perdida,Norteamérica,-6.22
+287,Fútbol,Stake_XYZ,16.71,Ganada,Asia,28.58
+288,Póker,Stake_XYZ,46.27,Ganada,Norteamérica,108.95
+289,Baloncesto,todoalnegro,8.3,Perdida,Asia,-8.3
+290,Fútbol,Stake_XYZ,30.96,Ganada,Norteamérica,74.38
+291,carrera de caballos,Stake_XYZ,15.02,Ganada,Asia,32.47
+292,Fútbol,Stake_XYZ,31.22,Ganada,Norteamérica,122.69
+293,carrera de caballos,Stake_XYZ,5.0,Perdida,Norteamérica,-5.0
+294,Ruleta,Bet_365,5.07,Ganada,Asia,13.42
+295,Póker,Codere_App,6.45,Empate,Latam,0.0
+296,Tragamonedas,Codere_App,8.54,Perdida,Latam,-8.54
+297,Tragamonedas,estafas.com,25.62,Empate,Norteamérica,0.0
+298,carrera de caballos,Codere_App,8.99,Ganada,Norteamérica,14.32
+299,carrera de caballos,todoalnegro,9.81,Ganada,Europa,7.55
+300,carrera de caballos,Bet_365,23.06,Ganada,Europa,47.25
+301,Tejo,Codere_App,5.0,Perdida,Asia,-5.0
+302,Tragamonedas,todoalnegro,36.62,Ganada,Latam,92.69
+303,carrera de caballos,Stake_XYZ,30.19,Ganada,Latam,39.71
+304,Tejo,todoalnegro,6.51,Perdida,Latam,-6.51
+305,Fútbol,Stake_XYZ,22.89,Ganada,Norteamérica,24.46
+306,Fútbol,estafas.com,5.0,Empate,Norteamérica,0.0
+307,Baloncesto,Codere_App,7.19,Ganada,Norteamérica,23.73
+308,carrera de caballos,todoalnegro,54.08,Perdida,Latam,-54.08
+309,Tragamonedas,Bet_365,5.32,Ganada,Norteamérica,3.4
+310,Ruleta,Bet_365,39.45,Perdida,Norteamérica,-39.45
+311,Tragamonedas,estafas.com,13.65,Ganada,Europa,38.87
+312,Tejo,estafas.com,38.3,Ganada,Norteamérica,88.84
+313,Fútbol,Stake_XYZ,5.0,Perdida,Oceanía,-5.0
+314,Tragamonedas,estafas.com,6.51,Empate,Oceanía,0.0
+315,Fútbol,estafas.com,15.14,Ganada,Asia,23.72
+316,Ruleta,estafas.com,5.0,Ganada,Norteamérica,16.06
+317,Tejo,Codere_App,5.0,Ganada,Latam,4.28
+318,Ruleta,Codere_App,5.0,Ganada,Norteamérica,15.29
+319,Ruleta,estafas.com,5.0,Perdida,Latam,-5.0
+320,Baloncesto,todoalnegro,5.0,Ganada,Latam,7.83
+321,Fútbol,todoalnegro,246.14,Perdida,Latam,-246.14
+322,carrera de caballos,Stake_XYZ,51.29,Ganada,Oceanía,86.01
+323,Baloncesto,estafas.com,5.0,Ganada,Latam,15.45
+324,Póker,estafas.com,93.2,Ganada,Latam,248.13
+325,Ruleta,Codere_App,5.0,Perdida,Oceanía,-5.0
+326,Póker,Codere_App,5.0,Perdida,Oceanía,-5.0
+327,Tejo,todoalnegro,127.98,Perdida,Latam,-127.98
+328,Baloncesto,Codere_App,17.9,Ganada,Norteamérica,34.94
+329,Baloncesto,estafas.com,5.59,Perdida,Asia,-5.59
+330,Tragamonedas,todoalnegro,6.6,Perdida,Asia,-6.6
+331,Póker,Bet_365,5.8,Perdida,Europa,-5.8
+332,Tragamonedas,Bet_365,11.31,Perdida,Europa,-11.31
+333,Ruleta,todoalnegro,5.0,Perdida,Europa,-5.0
+334,Tragamonedas,Codere_App,5.0,Perdida,Norteamérica,-5.0
+335,Baloncesto,Stake_XYZ,16.22,Perdida,Oceanía,-16.22
+336,Póker,estafas.com,5.0,Perdida,Oceanía,-5.0
+337,Baloncesto,Bet_365,5.0,Ganada,Latam,16.92
+338,Tragamonedas,estafas.com,27.12,Perdida,Oceanía,-27.12
+339,Tragamonedas,todoalnegro,5.0,Perdida,Latam,-5.0
+340,carrera de caballos,Stake_XYZ,5.0,Perdida,Europa,-5.0
+341,Tragamonedas,estafas.com,42.54,Perdida,Europa,-42.54
+342,Ruleta,Bet_365,22.8,Perdida,Oceanía,-22.8
+343,carrera de caballos,Bet_365,5.83,Ganada,Europa,17.3
+344,Fútbol,Codere_App,5.0,Perdida,Norteamérica,-5.0
+345,Tragamonedas,Bet_365,91.24,Ganada,Oceanía,134.73
+346,Tragamonedas,todoalnegro,14.98,Ganada,Norteamérica,47.43
+347,Tragamonedas,Stake_XYZ,67.31,Perdida,Asia,-67.31
+348,Fútbol,todoalnegro,6.54,Ganada,Asia,12.04
+349,Tragamonedas,todoalnegro,5.27,Perdida,Europa,-5.27
+350,carrera de caballos,Bet_365,7.53,Ganada,Norteamérica,11.97
+351,Fútbol,todoalnegro,22.21,Ganada,Europa,83.52
+352,Póker,estafas.com,5.0,Perdida,Norteamérica,-5.0
+353,Tejo,Stake_XYZ,5.12,Perdida,Europa,-5.12
+354,Ruleta,Bet_365,14.47,Perdida,Oceanía,-14.47
+355,carrera de caballos,Stake_XYZ,13.69,Ganada,Asia,15.58
+356,Ruleta,Codere_App,5.22,Perdida,Europa,-5.22
+357,Fútbol,Bet_365,40.81,Ganada,Asia,132.07
+358,Baloncesto,estafas.com,28.14,Perdida,Europa,-28.14
+359,Baloncesto,estafas.com,25.79,Perdida,Norteamérica,-25.79
+360,Tragamonedas,estafas.com,16.83,Ganada,Europa,28.38
+361,Ruleta,Codere_App,25.89,Perdida,Norteamérica,-25.89
+362,Tragamonedas,todoalnegro,6.28,Perdida,Asia,-6.28
+363,Tragamonedas,Bet_365,5.0,Empate,Europa,0.0
+364,Baloncesto,Bet_365,34.29,Ganada,Europa,128.28
+365,Tragamonedas,Codere_App,7.98,Ganada,Asia,8.51
+366,Baloncesto,estafas.com,65.55,Ganada,Norteamérica,65.41
+367,Tragamonedas,Codere_App,5.21,Perdida,Asia,-5.21
+368,Ruleta,Codere_App,10.37,Ganada,Oceanía,8.03
+369,Póker,Bet_365,26.25,Ganada,Asia,61.21
+370,Fútbol,Bet_365,9.43,Perdida,Asia,-9.43
+371,Póker,Codere_App,121.38,Ganada,Europa,376.48
+372,Baloncesto,Stake_XYZ,33.9,Empate,Norteamérica,0.0
+373,Baloncesto,Stake_XYZ,67.95,Ganada,Latam,42.81
+374,carrera de caballos,todoalnegro,55.13,Perdida,Norteamérica,-55.13
+375,Fútbol,Codere_App,5.19,Empate,Latam,0.0
+376,Tragamonedas,Codere_App,5.0,Ganada,Norteamérica,4.62
+377,Tragamonedas,Stake_XYZ,5.0,Perdida,Oceanía,-5.0
+378,Tejo,Stake_XYZ,8.93,Perdida,Latam,-8.93
+379,carrera de caballos,Stake_XYZ,23.96,Empate,Latam,0.0
+380,Tragamonedas,Bet_365,8.23,Perdida,Norteamérica,-8.23
+381,Tejo,todoalnegro,5.0,Ganada,Europa,12.86
+382,Tejo,Bet_365,42.46,Perdida,Oceanía,-42.46
+383,Ruleta,Codere_App,21.28,Ganada,Europa,55.27
+384,Baloncesto,estafas.com,5.0,Ganada,Latam,12.36
+385,Tragamonedas,estafas.com,10.6,Ganada,Oceanía,30.7
+386,Tragamonedas,todoalnegro,7.46,Perdida,Europa,-7.46
+387,Tejo,Bet_365,137.69,Perdida,Latam,-137.69
+388,Tragamonedas,Codere_App,6.49,Perdida,Latam,-6.49
+389,carrera de caballos,Codere_App,12.38,Empate,Oceanía,0.0
+390,Tejo,todoalnegro,5.0,Ganada,Latam,18.09
+391,Fútbol,Codere_App,5.0,Ganada,Latam,17.12
+392,Tragamonedas,Codere_App,10.56,Perdida,Oceanía,-10.56
+393,Ruleta,Bet_365,8.41,Perdida,Oceanía,-8.41
+394,Ruleta,estafas.com,5.0,Ganada,Asia,13.82
+395,carrera de caballos,todoalnegro,8.19,Ganada,Latam,13.67
+396,Baloncesto,todoalnegro,12.4,Ganada,Oceanía,33.73
+397,Fútbol,estafas.com,9.85,Ganada,Asia,15.3
+398,Fútbol,Stake_XYZ,34.85,Ganada,Asia,21.74
+399,Tragamonedas,todoalnegro,5.0,Perdida,Latam,-5.0
+400,Fútbol,Bet_365,5.0,Perdida,Europa,-5.0
+401,Tejo,Stake_XYZ,14.76,Ganada,Europa,31.14
+402,Tejo,Stake_XYZ,13.5,Perdida,Europa,-13.5
+403,Tejo,Codere_App,37.33,Ganada,Europa,135.82
+404,Tejo,Stake_XYZ,5.0,Ganada,Norteamérica,9.51
+405,Tejo,Bet_365,52.03,Perdida,Latam,-52.03
+406,Tragamonedas,estafas.com,39.34,Perdida,Asia,-39.34
+407,carrera de caballos,Stake_XYZ,10.64,Ganada,Asia,41.65
+408,carrera de caballos,Codere_App,41.61,Perdida,Norteamérica,-41.61
+409,Ruleta,Stake_XYZ,136.84,Perdida,Oceanía,-136.84
+410,Tejo,Codere_App,72.6,Perdida,Oceanía,-72.6
+411,Fútbol,Codere_App,8.52,Perdida,Oceanía,-8.52
+412,Tragamonedas,todoalnegro,16.43,Perdida,Europa,-16.43
+413,Ruleta,estafas.com,69.17,Empate,Oceanía,0.0
+414,Póker,todoalnegro,33.03,Ganada,Norteamérica,127.44
+415,Tragamonedas,estafas.com,27.64,Ganada,Asia,83.9
+416,Tragamonedas,Stake_XYZ,8.28,Perdida,Norteamérica,-8.28
+417,Tragamonedas,Stake_XYZ,5.0,Perdida,Europa,-5.0
+418,Póker,todoalnegro,6.55,Perdida,Asia,-6.55
+419,Fútbol,Stake_XYZ,5.13,Ganada,Latam,7.73
+420,Tragamonedas,Stake_XYZ,19.62,Empate,Latam,0.0
+421,Tragamonedas,todoalnegro,36.97,Ganada,Latam,59.04
+422,Póker,Bet_365,51.33,Perdida,Latam,-51.33
+423,Baloncesto,Stake_XYZ,45.94,Perdida,Oceanía,-45.94
+424,Baloncesto,Bet_365,5.14,Ganada,Europa,4.3
+425,Póker,todoalnegro,5.0,Perdida,Europa,-5.0
+426,Baloncesto,Stake_XYZ,12.92,Ganada,Oceanía,48.19
+427,carrera de caballos,Codere_App,7.71,Ganada,Oceanía,23.63
+428,carrera de caballos,estafas.com,11.96,Perdida,Oceanía,-11.96
+429,Tragamonedas,todoalnegro,8.94,Ganada,Asia,27.15
+430,Ruleta,estafas.com,5.0,Ganada,Oceanía,6.52
+431,carrera de caballos,Stake_XYZ,5.0,Perdida,Europa,-5.0
+432,Fútbol,todoalnegro,5.0,Perdida,Europa,-5.0
+433,Tragamonedas,Stake_XYZ,22.33,Perdida,Asia,-22.33
+434,Ruleta,Bet_365,14.14,Ganada,Oceanía,50.38
+435,Tejo,estafas.com,17.42,Ganada,Oceanía,36.1
+436,Fútbol,Stake_XYZ,5.0,Ganada,Oceanía,3.61
+437,Baloncesto,Codere_App,13.53,Perdida,Norteamérica,-13.53
+438,Baloncesto,Stake_XYZ,6.7,Ganada,Asia,4.89
+439,Fútbol,todoalnegro,21.01,Ganada,Europa,11.64
+440,carrera de caballos,Stake_XYZ,31.66,Ganada,Oceanía,121.54
+441,Tragamonedas,Bet_365,19.75,Ganada,Asia,62.38
+442,Ruleta,todoalnegro,57.53,Ganada,Asia,31.91
+443,carrera de caballos,todoalnegro,5.0,Perdida,Europa,-5.0
+444,carrera de caballos,Codere_App,14.03,Perdida,Asia,-14.03
+445,Fútbol,Bet_365,5.0,Ganada,Latam,6.33
+446,Tejo,estafas.com,20.1,Ganada,Oceanía,50.39
+447,Baloncesto,Bet_365,5.0,Ganada,Oceanía,4.04
+448,carrera de caballos,Codere_App,5.0,Ganada,Europa,4.41
+449,Póker,Bet_365,9.14,Empate,Asia,0.0
+450,Tejo,Codere_App,13.47,Ganada,Latam,25.35
+451,Tragamonedas,Stake_XYZ,5.0,Ganada,Asia,3.92
+452,Ruleta,todoalnegro,5.0,Ganada,Norteamérica,8.18
+453,Baloncesto,Stake_XYZ,31.8,Ganada,Oceanía,81.27
+454,Baloncesto,Bet_365,5.0,Ganada,Oceanía,13.73
+455,Tejo,Stake_XYZ,84.91,Ganada,Latam,307.27
+456,Tragamonedas,estafas.com,22.8,Ganada,Asia,88.62
+457,carrera de caballos,Codere_App,5.0,Ganada,Europa,6.31
+458,Póker,Codere_App,57.9,Ganada,Norteamérica,55.73
+459,Fútbol,Stake_XYZ,5.0,Ganada,Latam,2.73
+460,Fútbol,Codere_App,13.24,Ganada,Europa,35.01
+461,Fútbol,Stake_XYZ,5.0,Perdida,Norteamérica,-5.0
+462,Tragamonedas,Stake_XYZ,18.64,Ganada,Europa,72.47
+463,Ruleta,Bet_365,23.36,Ganada,Latam,73.03
+464,Tejo,estafas.com,5.0,Perdida,Latam,-5.0
+465,Baloncesto,Codere_App,16.57,Ganada,Norteamérica,25.64
+466,Ruleta,estafas.com,63.07,Perdida,Europa,-63.07
+467,Tejo,todoalnegro,7.56,Perdida,Asia,-7.56
+468,Ruleta,Bet_365,5.0,Perdida,Norteamérica,-5.0
+469,Fútbol,Codere_App,93.66,Ganada,Latam,152.67
+470,carrera de caballos,todoalnegro,5.0,Ganada,Europa,9.87
+471,Póker,estafas.com,123.79,Perdida,Asia,-123.79
+472,carrera de caballos,todoalnegro,111.88,Ganada,Oceanía,274.43
+473,Tragamonedas,estafas.com,150.47,Ganada,Europa,218.69
+474,carrera de caballos,Codere_App,13.47,Perdida,Oceanía,-13.47
+475,Tejo,Codere_App,8.54,Ganada,Latam,33.7
+476,Tejo,Stake_XYZ,6.56,Perdida,Norteamérica,-6.56
+477,Ruleta,Codere_App,8.81,Ganada,Asia,31.77
+478,Ruleta,Bet_365,5.0,Perdida,Norteamérica,-5.0
+479,Póker,todoalnegro,84.85,Ganada,Latam,66.96
+480,Póker,Codere_App,8.75,Perdida,Norteamérica,-8.75
+481,Tragamonedas,todoalnegro,5.0,Perdida,Europa,-5.0
+482,Tragamonedas,Stake_XYZ,6.95,Ganada,Norteamérica,3.79
+483,Ruleta,todoalnegro,39.63,Perdida,Europa,-39.63
+484,carrera de caballos,estafas.com,75.83,Empate,Asia,0.0
+485,carrera de caballos,Stake_XYZ,29.04,Ganada,Asia,92.67
+486,Tragamonedas,estafas.com,8.8,Perdida,Europa,-8.8
+487,Tragamonedas,Codere_App,19.42,Ganada,Norteamérica,73.64
+488,Póker,estafas.com,40.4,Perdida,Latam,-40.4
+489,Póker,Bet_365,5.42,Ganada,Europa,19.93
+490,Póker,Stake_XYZ,32.83,Ganada,Latam,90.53
+491,Fútbol,Bet_365,15.09,Perdida,Oceanía,-15.09
+492,Tragamonedas,Codere_App,19.73,Perdida,Latam,-19.73
+493,carrera de caballos,Bet_365,7.02,Ganada,Latam,15.06
+494,Ruleta,estafas.com,18.47,Perdida,Latam,-18.47
+495,Póker,todoalnegro,5.0,Perdida,Oceanía,-5.0
+496,Baloncesto,Codere_App,117.14,Ganada,Asia,241.55
+497,Tragamonedas,Bet_365,5.0,Perdida,Asia,-5.0
+498,carrera de caballos,Codere_App,21.09,Perdida,Latam,-21.09
+499,carrera de caballos,Bet_365,5.0,Perdida,Latam,-5.0
+500,Fútbol,Stake_XYZ,9.18,Perdida,Norteamérica,-9.18
+501,Póker,Codere_App,5.91,Perdida,Norteamérica,-5.91
+502,Ruleta,todoalnegro,5.0,Ganada,Europa,7.15
+503,Tejo,todoalnegro,5.0,Ganada,Norteamérica,5.55
+504,Baloncesto,estafas.com,5.36,Perdida,Norteamérica,-5.36
+505,Póker,Bet_365,7.0,Perdida,Norteamérica,-7.0
+506,Tejo,Codere_App,18.87,Perdida,Europa,-18.87
+507,Póker,todoalnegro,155.92,Ganada,Europa,194.68
+508,Baloncesto,Stake_XYZ,22.32,Ganada,Latam,87.97
+509,Fútbol,Bet_365,15.41,Perdida,Latam,-15.41
+510,Baloncesto,Stake_XYZ,23.08,Ganada,Asia,85.02
+511,Tejo,Bet_365,5.0,Empate,Europa,0.0
+512,Tejo,estafas.com,34.74,Ganada,Latam,120.84
+513,Fútbol,Stake_XYZ,121.04,Ganada,Latam,84.27
+514,Baloncesto,Codere_App,5.0,Ganada,Europa,15.03
+515,Tejo,todoalnegro,58.46,Ganada,Europa,139.6
+516,Tejo,todoalnegro,30.24,Empate,Asia,0.0
+517,Póker,todoalnegro,31.13,Perdida,Asia,-31.13
+518,Baloncesto,todoalnegro,47.49,Ganada,Asia,109.0
+519,Tejo,Bet_365,140.7,Perdida,Asia,-140.7
+520,carrera de caballos,Codere_App,11.7,Perdida,Latam,-11.7
+521,Tejo,estafas.com,11.45,Perdida,Europa,-11.45
+522,Póker,todoalnegro,38.95,Ganada,Latam,114.44
+523,Tragamonedas,estafas.com,5.0,Ganada,Latam,4.1
+524,Póker,todoalnegro,5.0,Perdida,Latam,-5.0
+525,Tejo,Stake_XYZ,51.39,Perdida,Asia,-51.39
+526,Baloncesto,Codere_App,5.82,Perdida,Oceanía,-5.82
+527,Baloncesto,estafas.com,336.63,Ganada,Europa,237.97
+528,Fútbol,todoalnegro,52.93,Ganada,Asia,92.57
+529,Póker,Stake_XYZ,111.42,Perdida,Latam,-111.42
+530,Ruleta,estafas.com,14.85,Perdida,Latam,-14.85
+531,Tejo,Bet_365,135.99,Ganada,Europa,154.48
+532,carrera de caballos,estafas.com,101.46,Perdida,Latam,-101.46
+533,Tragamonedas,estafas.com,51.09,Perdida,Oceanía,-51.09
+534,Tragamonedas,todoalnegro,43.36,Ganada,Europa,127.05
+535,Fútbol,estafas.com,88.25,Ganada,Europa,278.57
+536,Ruleta,todoalnegro,8.93,Ganada,Europa,30.5
+537,Tragamonedas,Codere_App,18.94,Perdida,Oceanía,-18.94
+538,carrera de caballos,Stake_XYZ,15.16,Empate,Norteamérica,0.0
+539,Baloncesto,Bet_365,5.0,Ganada,Latam,19.34
+540,Tragamonedas,Stake_XYZ,5.0,Ganada,Latam,12.43
+541,Baloncesto,todoalnegro,28.13,Perdida,Europa,-28.13
+542,Fútbol,estafas.com,8.19,Ganada,Latam,20.3
+543,Póker,estafas.com,5.0,Ganada,Oceanía,4.73
+544,Baloncesto,Codere_App,30.21,Ganada,Norteamérica,98.25
+545,carrera de caballos,Bet_365,10.1,Perdida,Norteamérica,-10.1
+546,Tragamonedas,Bet_365,134.06,Perdida,Oceanía,-134.06
+547,Póker,Stake_XYZ,21.09,Ganada,Asia,54.02
+548,Tragamonedas,Bet_365,8.02,Ganada,Europa,16.09
+549,Tejo,Stake_XYZ,6.23,Ganada,Latam,3.48
+550,carrera de caballos,Codere_App,9.93,Ganada,Asia,13.2
+551,Tragamonedas,Codere_App,8.24,Ganada,Oceanía,13.94
+552,carrera de caballos,Codere_App,27.9,Perdida,Europa,-27.9
+553,Póker,Bet_365,5.0,Ganada,Norteamérica,8.52
+554,Tragamonedas,Codere_App,15.77,Ganada,Oceanía,31.35
+555,carrera de caballos,Codere_App,18.85,Ganada,Oceanía,16.28
+556,Tejo,todoalnegro,5.0,Perdida,Asia,-5.0
+557,Tejo,todoalnegro,5.0,Perdida,Asia,-5.0
+558,carrera de caballos,estafas.com,5.0,Perdida,Norteamérica,-5.0
+559,Ruleta,Bet_365,32.32,Perdida,Latam,-32.32
+560,Fútbol,Bet_365,33.35,Ganada,Oceanía,76.06
+561,Fútbol,Bet_365,6.77,Empate,Europa,0.0
+562,Tejo,Codere_App,52.1,Perdida,Norteamérica,-52.1
+563,Baloncesto,Stake_XYZ,14.05,Ganada,Norteamérica,27.98
+564,Fútbol,Bet_365,6.4,Ganada,Oceanía,7.13
+565,carrera de caballos,Stake_XYZ,29.28,Perdida,Oceanía,-29.28
+566,Tragamonedas,estafas.com,5.36,Ganada,Asia,9.86
+567,Fútbol,Stake_XYZ,66.61,Perdida,Norteamérica,-66.61
+568,Tragamonedas,Stake_XYZ,42.46,Ganada,Oceanía,127.27
+569,Fútbol,Codere_App,5.0,Perdida,Europa,-5.0
+570,carrera de caballos,Codere_App,13.99,Perdida,Latam,-13.99
+571,Baloncesto,estafas.com,5.0,Empate,Latam,0.0
+572,Tragamonedas,Bet_365,70.15,Ganada,Europa,266.1
+573,carrera de caballos,estafas.com,9.2,Perdida,Norteamérica,-9.2
+574,Baloncesto,estafas.com,8.6,Ganada,Europa,8.36
+575,Tejo,Bet_365,7.94,Perdida,Norteamérica,-7.94
+576,carrera de caballos,Bet_365,5.0,Ganada,Norteamérica,8.54
+577,Tragamonedas,Codere_App,41.86,Perdida,Norteamérica,-41.86
+578,Ruleta,Stake_XYZ,6.57,Perdida,Oceanía,-6.57
+579,Baloncesto,estafas.com,6.62,Ganada,Oceanía,5.88
+580,Tejo,Bet_365,5.0,Ganada,Europa,11.47
+581,Baloncesto,estafas.com,5.0,Perdida,Norteamérica,-5.0
+582,Baloncesto,Codere_App,5.0,Perdida,Latam,-5.0
+583,Baloncesto,Stake_XYZ,8.03,Perdida,Asia,-8.03
+584,Tragamonedas,Bet_365,29.21,Perdida,Oceanía,-29.21
+585,Póker,Stake_XYZ,16.92,Perdida,Europa,-16.92
+586,Fútbol,Bet_365,6.93,Ganada,Oceanía,19.74
+587,Póker,Codere_App,43.37,Ganada,Asia,66.24
+588,Tejo,estafas.com,5.0,Ganada,Asia,5.24
+589,Ruleta,todoalnegro,8.8,Perdida,Asia,-8.8
+590,Tragamonedas,Bet_365,83.12,Perdida,Latam,-83.12
+591,Tejo,Bet_365,6.19,Ganada,Europa,22.86
+592,Tragamonedas,todoalnegro,44.49,Ganada,Norteamérica,121.68
+593,Póker,Codere_App,6.06,Ganada,Norteamérica,17.39
+594,Tragamonedas,Codere_App,51.57,Ganada,Norteamérica,182.79
+595,Tejo,Stake_XYZ,36.77,Perdida,Latam,-36.77
+596,Baloncesto,Codere_App,5.0,Perdida,Latam,-5.0
+597,Ruleta,Bet_365,25.72,Ganada,Oceanía,44.21
+598,Tragamonedas,Stake_XYZ,85.18,Perdida,Asia,-85.18
+599,carrera de caballos,todoalnegro,8.1,Ganada,Latam,10.88
+600,carrera de caballos,estafas.com,35.26,Ganada,Europa,139.11
+601,Tejo,Bet_365,55.94,Perdida,Europa,-55.94
+602,Tejo,Bet_365,5.0,Perdida,Asia,-5.0
+603,Tejo,Codere_App,109.56,Perdida,Europa,-109.56
+604,Póker,Stake_XYZ,20.77,Perdida,Latam,-20.77
+605,carrera de caballos,Stake_XYZ,381.95,Perdida,Latam,-381.95
+606,Póker,Bet_365,5.0,Ganada,Norteamérica,18.26
+607,Póker,estafas.com,5.39,Perdida,Europa,-5.39
+608,carrera de caballos,Bet_365,5.0,Perdida,Norteamérica,-5.0
+609,carrera de caballos,Bet_365,7.35,Ganada,Oceanía,15.84
+610,Fútbol,Stake_XYZ,32.57,Ganada,Norteamérica,81.09
+611,Tragamonedas,Bet_365,7.43,Perdida,Latam,-7.43
+612,Tejo,Stake_XYZ,27.09,Ganada,Asia,93.08
+613,Ruleta,todoalnegro,5.0,Perdida,Norteamérica,-5.0
+614,Póker,Codere_App,5.54,Perdida,Europa,-5.54
+615,Baloncesto,Bet_365,22.26,Ganada,Europa,31.92
+616,Fútbol,Bet_365,27.93,Ganada,Europa,39.38
+617,Tejo,estafas.com,12.28,Perdida,Norteamérica,-12.28
+618,Tragamonedas,todoalnegro,22.15,Ganada,Norteamérica,26.37
+619,Tejo,Codere_App,29.95,Ganada,Latam,105.29
+620,Póker,Bet_365,5.0,Perdida,Asia,-5.0
+621,Póker,Bet_365,14.23,Perdida,Norteamérica,-14.23
+622,Póker,todoalnegro,5.24,Ganada,Europa,9.12
+623,Tejo,Bet_365,5.0,Ganada,Europa,11.4
+624,Tejo,todoalnegro,5.0,Perdida,Oceanía,-5.0
+625,Tejo,Codere_App,12.12,Ganada,Oceanía,24.59
+626,Tejo,Codere_App,12.67,Ganada,Oceanía,31.59
+627,Ruleta,todoalnegro,15.64,Ganada,Latam,55.15
+628,Ruleta,todoalnegro,5.0,Perdida,Latam,-5.0
+629,Tragamonedas,Bet_365,5.0,Perdida,Norteamérica,-5.0
+630,Póker,todoalnegro,51.39,Ganada,Europa,142.63
+631,carrera de caballos,Stake_XYZ,31.03,Perdida,Asia,-31.03
+632,Tejo,Codere_App,16.63,Ganada,Latam,13.1
+633,Fútbol,Codere_App,15.52,Ganada,Oceanía,13.6
+634,Tragamonedas,todoalnegro,65.88,Perdida,Asia,-65.88
+635,Baloncesto,estafas.com,9.45,Perdida,Asia,-9.45
+636,Tejo,Bet_365,6.53,Perdida,Europa,-6.53
+637,Tragamonedas,Codere_App,22.45,Ganada,Europa,81.69
+638,Póker,Bet_365,8.34,Perdida,Europa,-8.34
+639,Tragamonedas,estafas.com,5.49,Perdida,Oceanía,-5.49
+640,Tejo,Codere_App,19.72,Ganada,Asia,38.42
+641,Baloncesto,Bet_365,16.55,Perdida,Latam,-16.55
+642,carrera de caballos,Codere_App,5.0,Ganada,Oceanía,10.52
+643,carrera de caballos,todoalnegro,5.0,Ganada,Asia,11.1
+644,Baloncesto,Bet_365,7.76,Perdida,Latam,-7.76
+645,Tragamonedas,estafas.com,114.74,Ganada,Latam,141.43
+646,Ruleta,todoalnegro,11.46,Perdida,Latam,-11.46
+647,Fútbol,Stake_XYZ,5.0,Ganada,Europa,11.69
+648,Fútbol,estafas.com,48.13,Perdida,Oceanía,-48.13
+649,Baloncesto,todoalnegro,9.5,Perdida,Latam,-9.5
+650,Tejo,Stake_XYZ,33.61,Perdida,Oceanía,-33.61
+651,Fútbol,Codere_App,9.09,Ganada,Asia,32.18
+652,Póker,todoalnegro,33.25,Perdida,Europa,-33.25
+653,Baloncesto,Stake_XYZ,9.35,Perdida,Asia,-9.35
+654,Baloncesto,Stake_XYZ,12.72,Perdida,Oceanía,-12.72
+655,Ruleta,todoalnegro,5.0,Perdida,Norteamérica,-5.0
+656,Tragamonedas,Codere_App,25.75,Perdida,Norteamérica,-25.75
+657,carrera de caballos,todoalnegro,12.5,Ganada,Norteamérica,14.96
+658,Ruleta,estafas.com,5.0,Ganada,Norteamérica,18.88
+659,Fútbol,Bet_365,28.17,Ganada,Europa,106.88
+660,Ruleta,Bet_365,14.18,Perdida,Asia,-14.18
+661,Póker,Codere_App,37.06,Perdida,Oceanía,-37.06
+662,Tragamonedas,estafas.com,87.31,Perdida,Asia,-87.31
+663,Tejo,Stake_XYZ,5.0,Ganada,Latam,4.76
+664,Ruleta,Codere_App,13.34,Perdida,Latam,-13.34
+665,Tragamonedas,Bet_365,5.0,Perdida,Europa,-5.0
+666,carrera de caballos,Bet_365,7.11,Perdida,Latam,-7.11
+667,Tragamonedas,Codere_App,10.59,Perdida,Asia,-10.59
+668,Tragamonedas,todoalnegro,29.24,Ganada,Norteamérica,26.84
+669,Tejo,Bet_365,5.0,Perdida,Latam,-5.0
+670,Ruleta,todoalnegro,5.0,Ganada,Europa,5.88
+671,Fútbol,Codere_App,5.0,Ganada,Europa,3.05
+672,Póker,Stake_XYZ,34.68,Ganada,Oceanía,108.83
+673,Fútbol,Codere_App,48.63,Perdida,Latam,-48.63
+674,carrera de caballos,todoalnegro,52.08,Perdida,Europa,-52.08
+675,Tejo,Bet_365,27.0,Perdida,Oceanía,-27.0
+676,Baloncesto,estafas.com,5.0,Perdida,Norteamérica,-5.0
+677,carrera de caballos,Codere_App,7.85,Perdida,Latam,-7.85
+678,Fútbol,estafas.com,7.23,Ganada,Latam,13.28
+679,Baloncesto,todoalnegro,23.13,Ganada,Europa,42.79
+680,Tragamonedas,Codere_App,6.27,Ganada,Latam,20.19
+681,Fútbol,Codere_App,59.89,Perdida,Asia,-59.89
+682,Póker,Stake_XYZ,57.45,Ganada,Oceanía,220.58
+683,Fútbol,Codere_App,6.69,Perdida,Asia,-6.69
+684,Baloncesto,Codere_App,5.0,Perdida,Oceanía,-5.0
+685,Póker,estafas.com,5.0,Ganada,Oceanía,18.15
+686,Fútbol,todoalnegro,7.32,Perdida,Europa,-7.32
+687,Tragamonedas,Codere_App,10.79,Ganada,Asia,15.34
+688,Baloncesto,todoalnegro,18.44,Perdida,Asia,-18.44
+689,Baloncesto,todoalnegro,5.0,Perdida,Asia,-5.0
+690,Fútbol,estafas.com,5.0,Perdida,Oceanía,-5.0
+691,Fútbol,Codere_App,9.86,Ganada,Europa,10.15
+692,Tejo,Codere_App,6.71,Perdida,Oceanía,-6.71
+693,Tejo,Bet_365,5.0,Perdida,Asia,-5.0
+694,carrera de caballos,Stake_XYZ,5.0,Perdida,Latam,-5.0
+695,Ruleta,todoalnegro,57.86,Perdida,Latam,-57.86
+696,Baloncesto,todoalnegro,8.75,Perdida,Norteamérica,-8.75
+697,Fútbol,Stake_XYZ,5.0,Ganada,Asia,7.38
+698,Tejo,estafas.com,5.0,Ganada,Europa,5.15
+699,Fútbol,todoalnegro,18.09,Perdida,Asia,-18.09
+700,Fútbol,Stake_XYZ,5.87,Ganada,Norteamérica,13.92
+701,Fútbol,todoalnegro,7.39,Ganada,Europa,20.1
+702,Póker,Codere_App,29.53,Ganada,Oceanía,116.22
+703,Ruleta,Codere_App,115.06,Perdida,Europa,-115.06
+704,Tejo,Codere_App,22.07,Ganada,Norteamérica,85.89
+705,Tragamonedas,Bet_365,9.82,Perdida,Asia,-9.82
+706,Fútbol,Bet_365,5.03,Perdida,Oceanía,-5.03
+707,Póker,estafas.com,11.65,Perdida,Asia,-11.65
+708,Ruleta,Bet_365,28.92,Perdida,Oceanía,-28.92
+709,Fútbol,todoalnegro,7.47,Ganada,Asia,8.69
+710,Baloncesto,estafas.com,5.0,Ganada,Oceanía,6.63
+711,Ruleta,estafas.com,5.0,Ganada,Europa,14.73
+712,Baloncesto,estafas.com,5.0,Perdida,Asia,-5.0
+713,Baloncesto,Stake_XYZ,5.0,Ganada,Europa,18.98
+714,Tejo,Bet_365,5.0,Perdida,Asia,-5.0
+715,Ruleta,todoalnegro,5.0,Empate,Latam,0.0
+716,Póker,todoalnegro,11.99,Perdida,Oceanía,-11.99
+717,Tejo,estafas.com,134.45,Perdida,Asia,-134.45
+718,Ruleta,Stake_XYZ,27.78,Perdida,Oceanía,-27.78
+719,Tragamonedas,estafas.com,5.0,Perdida,Europa,-5.0
+720,Tragamonedas,Codere_App,21.97,Perdida,Latam,-21.97
+721,Baloncesto,Stake_XYZ,5.0,Perdida,Latam,-5.0
+722,Póker,todoalnegro,20.08,Ganada,Latam,21.66
+723,Fútbol,Stake_XYZ,61.61,Perdida,Oceanía,-61.61
+724,Tragamonedas,todoalnegro,122.35,Perdida,Latam,-122.35
+725,Baloncesto,Bet_365,145.0,Perdida,Europa,-145.0
+726,Tragamonedas,Codere_App,8.15,Ganada,Norteamérica,10.33
+727,Baloncesto,todoalnegro,12.44,Ganada,Oceanía,42.12
+728,Póker,estafas.com,42.88,Ganada,Norteamérica,146.89
+729,Ruleta,Codere_App,43.79,Perdida,Europa,-43.79
+730,Tejo,Stake_XYZ,6.66,Perdida,Oceanía,-6.66
+731,Tejo,todoalnegro,5.0,Ganada,Oceanía,4.1
+732,Póker,estafas.com,5.26,Ganada,Latam,14.92
+733,Fútbol,Stake_XYZ,25.59,Ganada,Asia,61.58
+734,Fútbol,todoalnegro,5.0,Ganada,Norteamérica,11.23
+735,Baloncesto,todoalnegro,11.3,Empate,Latam,0.0
+736,Póker,estafas.com,12.25,Ganada,Oceanía,20.18
+737,Tragamonedas,estafas.com,15.29,Perdida,Norteamérica,-15.29
+738,Fútbol,estafas.com,12.48,Ganada,Latam,38.1
+739,Fútbol,todoalnegro,29.35,Perdida,Asia,-29.35
+740,Fútbol,todoalnegro,29.14,Ganada,Asia,14.7
+741,Fútbol,Stake_XYZ,92.34,Ganada,Asia,75.85
+742,Baloncesto,Stake_XYZ,5.0,Perdida,Norteamérica,-5.0
+743,Ruleta,estafas.com,5.0,Perdida,Asia,-5.0
+744,Fútbol,estafas.com,5.0,Perdida,Norteamérica,-5.0
+745,Baloncesto,Codere_App,9.59,Perdida,Asia,-9.59
+746,Baloncesto,Stake_XYZ,21.38,Ganada,Oceanía,15.82
+747,Ruleta,todoalnegro,44.27,Perdida,Latam,-44.27
+748,Baloncesto,Bet_365,28.82,Ganada,Norteamérica,33.43
+749,Ruleta,todoalnegro,15.9,Perdida,Norteamérica,-15.9
+750,Baloncesto,Stake_XYZ,32.84,Perdida,Oceanía,-32.84
+751,Baloncesto,estafas.com,5.0,Ganada,Norteamérica,15.49
+752,Ruleta,Stake_XYZ,11.05,Perdida,Latam,-11.05
+753,Fútbol,Stake_XYZ,5.0,Perdida,Norteamérica,-5.0
+754,Tejo,Codere_App,26.24,Ganada,Oceanía,66.31
+755,Tejo,todoalnegro,5.0,Ganada,Latam,10.04
+756,Fútbol,Bet_365,58.26,Perdida,Latam,-58.26
+757,Baloncesto,Bet_365,5.0,Perdida,Oceanía,-5.0
+758,carrera de caballos,todoalnegro,8.58,Ganada,Norteamérica,28.1
+759,Fútbol,estafas.com,37.24,Empate,Asia,0.0
+760,carrera de caballos,estafas.com,16.08,Ganada,Asia,23.06
+761,Fútbol,Stake_XYZ,5.0,Perdida,Oceanía,-5.0
+762,Tejo,Bet_365,116.62,Ganada,Latam,378.36
+763,carrera de caballos,Bet_365,5.24,Ganada,Latam,6.51
+764,Tragamonedas,Stake_XYZ,8.78,Perdida,Europa,-8.78
+765,Tragamonedas,Bet_365,5.0,Perdida,Latam,-5.0
+766,Póker,todoalnegro,8.9,Perdida,Oceanía,-8.9
+767,Tragamonedas,Stake_XYZ,5.0,Perdida,Oceanía,-5.0
+768,carrera de caballos,Stake_XYZ,5.0,Perdida,Oceanía,-5.0
+769,Póker,Codere_App,5.0,Perdida,Asia,-5.0
+770,Tragamonedas,Stake_XYZ,11.97,Perdida,Oceanía,-11.97
+771,Póker,Codere_App,60.64,Ganada,Asia,136.8
+772,Póker,estafas.com,61.86,Ganada,Europa,120.41
+773,Póker,Stake_XYZ,5.0,Ganada,Europa,4.32
+774,Fútbol,Stake_XYZ,5.93,Empate,Norteamérica,0.0
+775,Ruleta,Bet_365,64.78,Ganada,Europa,70.83
+776,Fútbol,Codere_App,5.0,Ganada,Oceanía,11.86
+777,carrera de caballos,Bet_365,14.07,Perdida,Latam,-14.07
+778,Ruleta,Bet_365,16.35,Ganada,Europa,31.28
+779,Ruleta,Codere_App,127.4,Ganada,Norteamérica,476.78
+780,Tejo,Stake_XYZ,9.2,Ganada,Oceanía,33.04
+781,Fútbol,todoalnegro,43.24,Ganada,Asia,75.59
+782,Tejo,Bet_365,5.0,Ganada,Norteamérica,6.93
+783,Baloncesto,todoalnegro,42.43,Perdida,Europa,-42.43
+784,Tejo,Bet_365,5.61,Ganada,Norteamérica,14.56
+785,Fútbol,Bet_365,68.65,Perdida,Latam,-68.65
+786,Baloncesto,Codere_App,5.0,Ganada,Asia,17.74
+787,Ruleta,Codere_App,78.46,Perdida,Europa,-78.46
+788,carrera de caballos,Stake_XYZ,8.96,Empate,Europa,0.0
+789,Tragamonedas,Bet_365,6.5,Perdida,Oceanía,-6.5
+790,carrera de caballos,Codere_App,5.81,Perdida,Latam,-5.81
+791,Póker,todoalnegro,5.0,Ganada,Oceanía,5.16
+792,Ruleta,Codere_App,7.39,Perdida,Asia,-7.39
+793,Baloncesto,Bet_365,5.0,Perdida,Asia,-5.0
+794,Tejo,Codere_App,10.06,Perdida,Oceanía,-10.06
+795,Tejo,Codere_App,25.69,Perdida,Latam,-25.69
+796,Tragamonedas,Codere_App,5.0,Perdida,Europa,-5.0
+797,Baloncesto,Stake_XYZ,17.76,Ganada,Latam,36.2
+798,Ruleta,Codere_App,10.48,Empate,Norteamérica,0.0
+799,Ruleta,Bet_365,11.69,Ganada,Asia,27.38
+800,Póker,Codere_App,112.81,Ganada,Asia,352.31
+801,Baloncesto,Codere_App,34.51,Ganada,Asia,26.43
+802,Tragamonedas,Codere_App,6.99,Ganada,Europa,22.16
+803,Tragamonedas,Codere_App,5.33,Empate,Oceanía,0.0
+804,carrera de caballos,Codere_App,10.68,Perdida,Asia,-10.68
+805,Baloncesto,estafas.com,40.75,Perdida,Norteamérica,-40.75
+806,carrera de caballos,Stake_XYZ,24.18,Perdida,Latam,-24.18
+807,carrera de caballos,Codere_App,41.18,Perdida,Asia,-41.18
+808,Baloncesto,todoalnegro,37.07,Perdida,Norteamérica,-37.07
+809,Baloncesto,todoalnegro,17.93,Ganada,Oceanía,45.46
+810,Fútbol,Bet_365,14.28,Perdida,Europa,-14.28
+811,Tejo,todoalnegro,5.0,Perdida,Oceanía,-5.0
+812,Póker,todoalnegro,51.5,Perdida,Europa,-51.5
+813,Tragamonedas,Codere_App,58.79,Ganada,Latam,213.15
+814,Ruleta,estafas.com,7.84,Ganada,Asia,19.81
+815,Ruleta,estafas.com,14.47,Perdida,Norteamérica,-14.47
+816,Fútbol,estafas.com,54.07,Perdida,Asia,-54.07
+817,Fútbol,Stake_XYZ,34.66,Empate,Asia,0.0
+818,Tejo,Codere_App,11.02,Ganada,Oceanía,14.66
+819,Póker,Codere_App,20.72,Ganada,Latam,71.67
+820,carrera de caballos,Bet_365,38.38,Ganada,Europa,28.16
+821,carrera de caballos,Stake_XYZ,12.06,Ganada,Latam,47.43
+822,Fútbol,Stake_XYZ,104.64,Ganada,Europa,399.4
+823,Póker,estafas.com,10.64,Ganada,Europa,13.93
+824,Tejo,Bet_365,69.16,Ganada,Norteamérica,191.1
+825,Tejo,Codere_App,5.0,Empate,Europa,0.0
+826,Tejo,Codere_App,5.43,Perdida,Asia,-5.43
+827,Tejo,todoalnegro,11.99,Ganada,Europa,15.43
+828,Tragamonedas,Bet_365,6.49,Perdida,Europa,-6.49
+829,Tragamonedas,estafas.com,14.57,Perdida,Oceanía,-14.57
+830,carrera de caballos,todoalnegro,9.29,Ganada,Latam,19.54
+831,carrera de caballos,estafas.com,68.04,Perdida,Oceanía,-68.04
+832,Tragamonedas,estafas.com,16.18,Ganada,Europa,33.41
+833,Baloncesto,Codere_App,13.67,Perdida,Norteamérica,-13.67
+834,Tragamonedas,estafas.com,26.12,Ganada,Europa,21.12
+835,Tragamonedas,todoalnegro,14.8,Ganada,Europa,12.19
+836,Tragamonedas,estafas.com,5.0,Perdida,Latam,-5.0
+837,carrera de caballos,Bet_365,5.23,Perdida,Asia,-5.23
+838,Póker,Stake_XYZ,20.98,Perdida,Europa,-20.98
+839,Póker,todoalnegro,5.0,Ganada,Europa,17.9
+840,Tragamonedas,estafas.com,5.0,Ganada,Europa,6.93
+841,Ruleta,Codere_App,64.05,Ganada,Oceanía,171.91
+842,carrera de caballos,todoalnegro,10.79,Perdida,Latam,-10.79
+843,Tejo,todoalnegro,5.0,Perdida,Oceanía,-5.0
+844,Ruleta,estafas.com,21.09,Perdida,Norteamérica,-21.09
+845,Tejo,todoalnegro,24.54,Perdida,Norteamérica,-24.54
+846,Tejo,Bet_365,5.0,Ganada,Europa,5.8
+847,carrera de caballos,Bet_365,6.29,Ganada,Oceanía,7.91
+848,Baloncesto,todoalnegro,61.45,Ganada,Latam,173.48
+849,Ruleta,Bet_365,5.0,Perdida,Norteamérica,-5.0
+850,Tejo,Stake_XYZ,43.66,Perdida,Europa,-43.66
+851,Baloncesto,estafas.com,5.0,Ganada,Asia,13.87
+852,Baloncesto,Codere_App,16.15,Ganada,Europa,34.32
+853,Tejo,Codere_App,30.57,Ganada,Oceanía,63.56
+854,Tejo,todoalnegro,19.98,Ganada,Latam,46.0
+855,Póker,Codere_App,5.0,Ganada,Asia,11.21
+856,Tragamonedas,estafas.com,5.0,Ganada,Norteamérica,10.39
+857,Baloncesto,todoalnegro,32.6,Perdida,Latam,-32.6
+858,Tejo,Bet_365,13.95,Perdida,Latam,-13.95
+859,Póker,Codere_App,5.0,Ganada,Oceanía,15.12
+860,carrera de caballos,Stake_XYZ,27.82,Perdida,Latam,-27.82
+861,Póker,Stake_XYZ,18.16,Ganada,Norteamérica,62.63
+862,Tejo,todoalnegro,5.0,Ganada,Latam,9.91
+863,Baloncesto,todoalnegro,19.28,Ganada,Oceanía,46.01
+864,Ruleta,todoalnegro,12.87,Ganada,Asia,8.55
+865,Tragamonedas,Stake_XYZ,38.91,Perdida,Norteamérica,-38.91
+866,Baloncesto,todoalnegro,7.11,Perdida,Norteamérica,-7.11
+867,Fútbol,Bet_365,17.37,Ganada,Latam,68.06
+868,Baloncesto,Stake_XYZ,5.0,Perdida,Asia,-5.0
+869,carrera de caballos,todoalnegro,5.0,Ganada,Europa,18.53
+870,Póker,Bet_365,5.0,Empate,Norteamérica,0.0
+871,Ruleta,Bet_365,58.91,Ganada,Europa,73.31
+872,Tejo,Stake_XYZ,31.48,Ganada,Asia,79.53
+873,Baloncesto,Stake_XYZ,12.12,Perdida,Oceanía,-12.12
+874,Ruleta,Stake_XYZ,5.0,Perdida,Latam,-5.0
+875,Fútbol,Bet_365,59.75,Ganada,Latam,136.53
+876,Fútbol,Stake_XYZ,35.31,Perdida,Europa,-35.31
+877,Ruleta,todoalnegro,10.44,Ganada,Oceanía,12.32
+878,carrera de caballos,Codere_App,67.83,Perdida,Asia,-67.83
+879,Póker,Stake_XYZ,17.57,Ganada,Europa,27.39
+880,Fútbol,Stake_XYZ,15.2,Ganada,Asia,31.39
+881,carrera de caballos,Bet_365,11.03,Perdida,Norteamérica,-11.03
+882,Fútbol,Stake_XYZ,13.55,Ganada,Latam,27.51
+883,Póker,Codere_App,109.21,Perdida,Norteamérica,-109.21
+884,Póker,Stake_XYZ,69.3,Ganada,Latam,39.03
+885,carrera de caballos,todoalnegro,5.0,Perdida,Oceanía,-5.0
+886,Baloncesto,Stake_XYZ,5.0,Ganada,Latam,9.67
+887,Póker,Codere_App,36.25,Perdida,Norteamérica,-36.25
+888,Tragamonedas,Stake_XYZ,87.28,Perdida,Oceanía,-87.28
+889,Baloncesto,Bet_365,16.61,Perdida,Asia,-16.61
+890,Baloncesto,Codere_App,6.82,Perdida,Oceanía,-6.82
+891,Póker,todoalnegro,121.03,Perdida,Oceanía,-121.03
+892,Póker,Stake_XYZ,22.23,Perdida,Asia,-22.23
+893,Baloncesto,Codere_App,8.8,Ganada,Europa,17.83
+894,Póker,Codere_App,5.78,Perdida,Oceanía,-5.78
+895,Tejo,Stake_XYZ,35.95,Ganada,Oceanía,73.06
+896,carrera de caballos,Bet_365,59.45,Ganada,Europa,73.43
+897,carrera de caballos,estafas.com,76.78,Ganada,Oceanía,164.78
+898,Póker,todoalnegro,13.45,Perdida,Europa,-13.45
+899,carrera de caballos,estafas.com,41.87,Perdida,Latam,-41.87
+900,Póker,estafas.com,11.88,Perdida,Oceanía,-11.88
+901,Tejo,estafas.com,12.47,Ganada,Asia,12.7
+902,Fútbol,estafas.com,21.79,Ganada,Oceanía,45.17
+903,Fútbol,Stake_XYZ,14.96,Perdida,Norteamérica,-14.96
+904,Fútbol,Stake_XYZ,5.25,Perdida,Norteamérica,-5.25
+905,carrera de caballos,estafas.com,6.13,Ganada,Norteamérica,14.18
+906,Ruleta,todoalnegro,15.13,Perdida,Norteamérica,-15.13
+907,Ruleta,Codere_App,22.3,Ganada,Asia,11.35
+908,carrera de caballos,todoalnegro,10.96,Perdida,Asia,-10.96
+909,Tragamonedas,Codere_App,7.69,Ganada,Europa,10.34
+910,Ruleta,Bet_365,10.45,Ganada,Latam,24.47
+911,Póker,Codere_App,17.08,Perdida,Norteamérica,-17.08
+912,Tragamonedas,Bet_365,11.84,Perdida,Latam,-11.84
+913,Póker,todoalnegro,5.0,Ganada,Oceanía,5.14
+914,Tejo,Codere_App,7.22,Perdida,Asia,-7.22
+915,Tragamonedas,Stake_XYZ,7.6,Perdida,Europa,-7.6
+916,Ruleta,Codere_App,9.31,Ganada,Asia,14.79
+917,Tragamonedas,Codere_App,5.39,Perdida,Asia,-5.39
+918,Tragamonedas,Stake_XYZ,5.0,Ganada,Oceanía,19.74
+919,Ruleta,todoalnegro,19.61,Perdida,Europa,-19.61
+920,Póker,Codere_App,14.39,Perdida,Norteamérica,-14.39
+921,Ruleta,estafas.com,19.99,Ganada,Asia,57.98
+922,Póker,Bet_365,15.72,Ganada,Oceanía,44.62
+923,Póker,Bet_365,5.0,Ganada,Europa,16.01
+924,Fútbol,Codere_App,24.32,Perdida,Norteamérica,-24.32
+925,Tragamonedas,Bet_365,5.0,Ganada,Oceanía,15.1
+926,Tragamonedas,Stake_XYZ,7.67,Perdida,Norteamérica,-7.67
+927,Póker,Bet_365,5.0,Ganada,Latam,10.79
+928,Ruleta,Stake_XYZ,16.51,Perdida,Oceanía,-16.51
+929,Tragamonedas,estafas.com,10.95,Ganada,Norteamérica,19.56
+930,Póker,Codere_App,5.0,Perdida,Europa,-5.0
+931,Baloncesto,estafas.com,5.0,Ganada,Oceanía,3.12
+932,Ruleta,todoalnegro,29.21,Perdida,Oceanía,-29.21
+933,Tejo,Bet_365,14.97,Ganada,Asia,40.85
+934,Póker,todoalnegro,14.24,Ganada,Oceanía,51.15
+935,carrera de caballos,Codere_App,11.06,Perdida,Asia,-11.06
+936,Póker,Stake_XYZ,8.14,Ganada,Asia,29.12
+937,Ruleta,Bet_365,7.13,Perdida,Europa,-7.13
+938,Ruleta,Stake_XYZ,12.65,Ganada,Latam,17.82
+939,Tejo,Stake_XYZ,31.99,Ganada,Latam,27.72
+940,Baloncesto,Codere_App,26.9,Ganada,Norteamérica,85.49
+941,Póker,todoalnegro,5.69,Perdida,Europa,-5.69
+942,Ruleta,todoalnegro,5.0,Ganada,Europa,7.27
+943,Póker,Stake_XYZ,29.32,Ganada,Asia,110.74
+944,carrera de caballos,Bet_365,5.0,Ganada,Oceanía,3.84
+945,Tragamonedas,Bet_365,5.0,Ganada,Europa,8.8
+946,carrera de caballos,Stake_XYZ,5.0,Perdida,Norteamérica,-5.0
+947,carrera de caballos,Bet_365,8.07,Perdida,Asia,-8.07
+948,Tragamonedas,Stake_XYZ,5.0,Ganada,Latam,12.45
+949,Fútbol,estafas.com,13.75,Perdida,Latam,-13.75
+950,Tragamonedas,Stake_XYZ,53.24,Ganada,Asia,132.24
+951,carrera de caballos,estafas.com,26.35,Perdida,Asia,-26.35
+952,Tejo,Stake_XYZ,8.83,Perdida,Oceanía,-8.83
+953,Tragamonedas,todoalnegro,9.82,Perdida,Oceanía,-9.82
+954,Tragamonedas,todoalnegro,5.72,Perdida,Norteamérica,-5.72
+955,Ruleta,estafas.com,11.78,Ganada,Europa,33.52
+956,Ruleta,estafas.com,5.89,Perdida,Latam,-5.89
+957,Tejo,todoalnegro,5.0,Perdida,Oceanía,-5.0
+958,Ruleta,Bet_365,37.63,Perdida,Oceanía,-37.63
+959,Baloncesto,Codere_App,8.46,Perdida,Europa,-8.46
+960,Baloncesto,Bet_365,22.93,Perdida,Norteamérica,-22.93
+961,Fútbol,Stake_XYZ,5.0,Perdida,Europa,-5.0
+962,Tragamonedas,Stake_XYZ,99.62,Ganada,Oceanía,319.45
+963,Fútbol,Stake_XYZ,18.4,Perdida,Norteamérica,-18.4
+964,Ruleta,Bet_365,33.53,Perdida,Asia,-33.53
+965,carrera de caballos,Bet_365,8.1,Ganada,Oceanía,13.48
+966,Tejo,Codere_App,17.55,Perdida,Oceanía,-17.55
+967,carrera de caballos,Bet_365,5.56,Perdida,Asia,-5.56
+968,Póker,estafas.com,32.96,Perdida,Oceanía,-32.96
+969,Tejo,Codere_App,5.0,Perdida,Latam,-5.0
+970,Tejo,Stake_XYZ,7.75,Ganada,Oceanía,9.32
+971,Tejo,todoalnegro,5.0,Ganada,Europa,19.11
+972,Baloncesto,estafas.com,28.43,Perdida,Asia,-28.43
+973,Baloncesto,todoalnegro,25.48,Perdida,Europa,-25.48
+974,Ruleta,Stake_XYZ,42.91,Perdida,Asia,-42.91
+975,Tragamonedas,todoalnegro,6.19,Perdida,Norteamérica,-6.19
+976,Póker,estafas.com,5.82,Ganada,Latam,3.24
+977,Fútbol,Codere_App,5.0,Ganada,Oceanía,14.88
+978,Póker,Stake_XYZ,9.23,Ganada,Norteamérica,6.0
+979,Fútbol,Stake_XYZ,25.15,Ganada,Oceanía,70.77
+980,Tejo,todoalnegro,5.31,Ganada,Oceanía,10.99
+981,Tejo,Stake_XYZ,7.44,Ganada,Norteamérica,14.89
+982,carrera de caballos,todoalnegro,6.68,Perdida,Norteamérica,-6.68
+983,carrera de caballos,estafas.com,6.94,Empate,Latam,0.0
+984,Fútbol,Stake_XYZ,9.14,Ganada,Asia,35.52
+985,carrera de caballos,estafas.com,5.0,Perdida,Oceanía,-5.0
+986,Tejo,Codere_App,6.06,Perdida,Oceanía,-6.06
+987,Tragamonedas,Stake_XYZ,30.62,Perdida,Oceanía,-30.62
+988,carrera de caballos,Stake_XYZ,5.0,Ganada,Asia,18.81
+989,Tragamonedas,todoalnegro,13.62,Ganada,Europa,35.7
+990,Tejo,todoalnegro,44.61,Perdida,Oceanía,-44.61
+991,Fútbol,estafas.com,6.75,Perdida,Oceanía,-6.75
+992,Tragamonedas,todoalnegro,37.86,Ganada,Latam,121.55
+993,Póker,Stake_XYZ,10.55,Ganada,Asia,8.85
+994,carrera de caballos,todoalnegro,5.0,Perdida,Latam,-5.0
+995,Baloncesto,Bet_365,10.12,Perdida,Latam,-10.12
+996,carrera de caballos,todoalnegro,31.77,Ganada,Oceanía,88.39
+997,Tragamonedas,Bet_365,16.46,Perdida,Asia,-16.46
+998,Ruleta,Bet_365,9.98,Perdida,Asia,-9.98
+999,Tejo,estafas.com,22.05,Perdida,Latam,-22.05
+1000,Tejo,Stake_XYZ,15.81,Perdida,Asia,-15.81
